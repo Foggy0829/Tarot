@@ -3,3 +3,8 @@ matplotlib
 pillow
 pandas
 numpy
+random
+base64
+os
+Image
+warnings
